@@ -1,5 +1,29 @@
-body {
-  background-color: red;
+.header {
+  display: flex;
+  height: 30em;
+  width: 100%;
+}
+.header__container {
+  justify-content: center;
+  padding: 2em;
+  width: 100%;
+  display: flex;
+}
+.header__container-img {
+  height: 5em;
+  width: 8em;
+  margin-right: 3em;
+}
+.header__menu-nav {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  background-color: rgba(154, 150, 150, 0.604);
+  align-items: center;
+}
+.header__menu-nav-link {
+  margin: 0 3em;
+  padding: 1em 0;
 }
 
 /*# sourceMappingURL=styles.css.map */
