@@ -1,2 +1,7 @@
 @use "header";
 @use "banner";
+
+.content {
+  display: flex;
+  justify-content: center;
+}
