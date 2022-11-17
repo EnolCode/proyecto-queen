@@ -51,9 +51,32 @@
   height: 15em;
 }
 
+.container-news__news {
+  display: flex;
+  flex-direction: column;
+  width: 13em;
+}
+.container-news__news .news__title {
+  font-size: 1.3em;
+  font-weight: bold;
+  align-self: center;
+}
+.container-news__news .news__text {
+  font-size: 1em;
+  color: grey;
+}
+
+.news__image {
+  height: 10%;
+  width: 10%;
+  display: none;
+}
+
 .content {
   display: flex;
   justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 
 /*# sourceMappingURL=styles.css.map */

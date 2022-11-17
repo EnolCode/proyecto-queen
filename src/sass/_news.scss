@@ -1,0 +1,23 @@
+.container-news__news{
+    display: flex;
+    flex-direction: column;
+    width: 13em;
+    .news__title{
+     font-size: 1.3em;
+     font-weight: bold;
+     align-self: center;
+
+}
+.news__text{
+font-size: 1em;
+color: grey;
+
+}
+}
+
+
+.news__image{
+    height: 10%;
+    width: 10%;
+    display: none;
+}
