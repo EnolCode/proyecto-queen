@@ -17,5 +17,5 @@ Esta página es una web tributo en honor al grupo historico Queen. 	:singer:
 
 ### Autores
 
-- [Caren](https://github.com/careSalles)
+- [Caren](https://github.com/carenSalles)
 - [Enol Igareta](https://github.com/EnolCode)
